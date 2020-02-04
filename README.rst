@@ -1,4 +1,4 @@
-baxter_simulator
+baxter_simulator (Ubuntu 18.04, ROS Melodic)
 ==============
 
 Gazebo simulation with emulated interfaces for the Baxter Research Robot
